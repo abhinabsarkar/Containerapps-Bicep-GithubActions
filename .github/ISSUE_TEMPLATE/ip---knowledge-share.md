@@ -1,8 +1,8 @@
 ---
 name: IP - Knowledge share
 about: Document your learnings & share with the community
-title: ''
-labels: "IP Knowledge share"
+title: "[IP Knowledge share]: "
+labels: ["IP Knowledge share"]
 assignees: ''
 
 ---
