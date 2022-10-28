@@ -7,6 +7,11 @@ assignees: ''
 
 ---
 
+<!---
+Please review guidance in the wiki
+[https://github.com/mcaps-us/CDN_CSU_Architecture/wiki/Working-With-Architectural-Decision-Records](https://github.com/abhinabsarkar/Containerapps-Bicep-GithubActions/wiki/IP---Knowledge-share)
+--->
+
 ### Issue summary
 Short summary of the issue
 
