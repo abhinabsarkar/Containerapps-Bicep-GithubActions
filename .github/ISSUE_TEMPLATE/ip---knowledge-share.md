@@ -2,7 +2,7 @@
 name: IP - Knowledge share
 about: Document your learnings & share with the community
 title: ''
-labels: ["ip", "triage"]
+labels: ip, knowledge, share
 assignees: ''
 
 ---
